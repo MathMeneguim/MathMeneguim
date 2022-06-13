@@ -27,12 +27,8 @@
 </p>
 
 <p align="left">
-
-  ### Minhas redes sociais: ⤵️
+  ## 📫 My social media
   
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/matheus-meneguim-6892bb207/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoinacioneto" /></a>
   <a href="https://www.instagram.com/matheus.meneguim/" alt="Instagram">
