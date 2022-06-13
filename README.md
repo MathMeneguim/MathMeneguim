@@ -1,16 +1,18 @@
+<h1 align="center"> Hello World! 👋🏼 I'm Matheus Meneguim</h1>
+
+## About me
+
+*Com 18 anos, atualmente trabalho como <strong>Trainee Front-end</strong> na <strong>Magna Sistemas</strong>.* 🤩
+
+*Sou um apaixonado por física, música e tudo que envolva inovação e criação de novas tecnologias.* 🌌🎸💻
+<br/>
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
-
-<p align="left"> 
-
-  ## 💜 Olá, me chamo <i>Matheus Meneguim</i>.
-
-</p>
-
-> Hoje tenho 18 anos, trabalho na <strong>Magna Sistemas</strong> como <strong>Trainee Front-end</strong>. Sou apaixonado por música, web design, e tudo que envolva criação de interfaces para web. :)
 
 <p align="left">
 
-  ### 👨‍💻 Habilidades: 
+  ## 🔭 My tech stack 
 
   <p>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
@@ -33,6 +35,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-meneguim-6892bb207/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoinacioneto" /></a>
+  < a href="https://www.instagram.com/](https://www.instagram.com/matheus.meneguim/" alt="Instagram">
+  <img src="https://img.icons8.com/fluency-systems-regular/48/undefined/instagram.png"/></a>
 </p>  
 
 <br>
@@ -42,8 +46,6 @@
 <br>
 
 <p align="center">
-
-  [![card](https://github-readme-stats.vercel.app/api?username=MathMeneguim&theme=dracula&show_icons=true)](https://github.com/MathMeneguim)
   
   [![MathMeneguim](https://github-readme-stats.vercel.app/api/top-langs/?username=MathMeneguim&hide=html&layout=compact&theme=dracula)](https://github.com/MathMeneguim/)
 
