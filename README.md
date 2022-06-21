@@ -5,6 +5,8 @@
 *Com 18 anos, atualmente trabalho como <strong>Trainee Front-end</strong> na <strong>Magna Sistemas</strong>.*
 
 *Sou um apaixonado por física, música e tudo que envolva inovação e criação de novas tecnologias.* 🌌🎸💻
+
+*Iniciando minha carreira como desenvolvedor*
 <br/>
 
 
