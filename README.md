@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/MathMeneguim/MathMeneguim/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  ![alt text](https://github.com/[MathMeneguim/[MathMeneguim]/blob/[main]/welcome.jpg?raw=true)
+  ![alt text](https://github.com/MathMeneguim/MathMeneguim/blob/[main]/welcome.jpg?raw=true)
   <br />
   <br />
 </div>
