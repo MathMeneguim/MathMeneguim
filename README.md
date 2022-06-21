@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <img src="https://github.com/MathMeneguim/mathmeneguim/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 </div>
@@ -31,13 +30,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <br />
 <br/>
 ## ✉ Feel free to connect with me on:<br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-arora-602476107/)](https://www.linkedin.com/in/vaibhav-arora-602476107/)
+https://www.linkedin.com/in/matheus-meneguim-6892bb207
+[![Linkedin Badge](https://img.shields.io/badge/-vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-meneguim-6892bb207/)](https://www.linkedin.com/in/matheus-meneguim-6892bb207/)
 [![Gmail Badge](https://img.shields.io/badge/-varora1406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varora1406@gmail.com)](mailto:varora1406@gmail.com)
 [![Twitter Badge](https://img.shields.io/twitter/follow/vaibhav_arora__?label=Twitter&style=social)](https://twitter.com/vaibhav_arora__)
 <br>  
