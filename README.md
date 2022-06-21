@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/MathMeneguim/MathMeneguim/welcome.png?raw=true](https://github.com/MathMeneguim/MathMeneguim/blob/main/welcome.png)" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/MathMeneguim/MathMeneguim/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 </div>
