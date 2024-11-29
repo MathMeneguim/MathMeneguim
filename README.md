@@ -2,11 +2,10 @@
 
 ## About me
 
-*Com 18 anos, atualmente trabalho como <strong>Trainee IOT</strong> na <strong>Magna Sistemas</strong>.*
+*Com 21 anos, atualmente trabalho como programador na <strong>Magna Sistemas</strong>.*
 
 *Sou um apaixonado por física, música e tudo que envolva inovação e criação de novas tecnologias.* 🌌🎸💻
 
-*Iniciando minha carreira como desenvolvedor*
 <br/>
 
 
