@@ -2,7 +2,7 @@
 
 ## About me
 
-*Com 21 anos, atualmente trabalho como programador na <strong>Magna Sistemas</strong>.*
+*Com 21 anos, atualmente trabalho como programador na <strong>Alma Viva Solutions</strong>.*
 
 *Sou um apaixonado por física, música e tudo que envolva inovação e criação de novas tecnologias.* 🌌🎸💻
 
